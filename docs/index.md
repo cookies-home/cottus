@@ -1,2 +1,2 @@
 # typescript 
---i wanna create a nest project
+--cms based on nestjs framework and powered by typescript
