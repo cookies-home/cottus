@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/superleemo/cottus/issues"
   },
-  "homepage": "https://github.com/superleemo/cottus#readme"
+  "homepage": "https://github.com/superleemo/cottus#readme",
+  "dependencies": {
+    "@nestjs/common": "^8.2.4",
+    "@nestjs/core": "^8.2.4",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.4.0"
+  }
 }
