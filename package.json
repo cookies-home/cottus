@@ -1,0 +1,27 @@
+{
+  "name": "cottus",
+  "version": "1.0.0",
+  "description": "cottus cms based on nestjs framework",
+  "main": "mian.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superleemo/cottus.git"
+  },
+  "keywords": [
+    "nest",
+    "nestjs",
+    "cottus"
+  ],
+  "author": "sparrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superleemo/cottus/issues"
+  },
+  "homepage": "https://github.com/superleemo/cottus#readme"
+}
