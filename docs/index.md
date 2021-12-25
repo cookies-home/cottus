@@ -1,2 +1,2 @@
 # typescript 
-i wanna create a nest project
+--i wanna create a nest project
